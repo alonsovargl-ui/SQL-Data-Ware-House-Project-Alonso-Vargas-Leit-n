@@ -84,3 +84,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ---
 
 About Me
+
+Hello there, I'm Yocsan Alonso Vargas. Im a junior level data analyst working to move on a new career path y the data analyst and science field. This is my first academic project that involves data arquitecture and ETL processes
+
+Im fully available for a data analist position and eager to learn and develop new skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/alonso-vargas-leitón-3615a5259)
