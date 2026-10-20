@@ -1,4 +1,4 @@
-# SQL-Data-Ware-House-Project-Alonso-Vargas-Leit-n
+# SQL-Data-Ware-House-Project-Alonso-Vargas-Leitón
 A modern data warehouse with SQL Server, Including ETL processes, data modeling and analytics
 
 # Data Warehouse and Analytics Project
